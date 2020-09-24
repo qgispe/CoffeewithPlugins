@@ -25,10 +25,10 @@ Durante la primera semana del mes de setiembre del 2020 se lanzó una encuesta a
 
 <p align="center">
  <a>
-  <img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/master/plots/qgispe_fb.png" width=300 align="left">
+  <img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/master/plots/qgispe_fb.png" width=300 >
  </a>
 <a>
-  <img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/master/plots/qgispe_twitter.png" width=345 height=261 align="rigth"  hspace="10">
+  <img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/master/plots/qgispe_twitter.png" width=345 height=261 hspace="10">
  </a>
  <br/>
  <br/>
