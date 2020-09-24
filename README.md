@@ -18,10 +18,6 @@
 <a href="https://open.spotify.com/playlist/1j8TUXUGpsmm0aKdVoRuEF?si=bDhduwf3T1KEu_o93dp07w">
   <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" height=24>
   </a>
-<<<<<<< HEAD
-=======
- 
->>>>>>> f98e006f86f11fb68f06f5f39cb2ec75791ac6dc
 </p>
 
 Durante la primera semana del mes de setiembre del 2020 se lanzó una encuesta a todo la comunidad de **qgiseros** y **qgiseras** acerca de los temas de interés a tratar más adelante como parte del cronograma de actividades agendadas por parte del **Grupo de Usuarios de QGIS Perú**, para está encuesta se propusierón algunas temáticas referenciales, teniendo como objetivo incentivar a los usuarios y nuevos usuarios a participar y  proponer temáticas de su interés, esta encuesta fueron publicadas en [**Facebook**]() y [**Twitter**](), conforme pasarón los días la mayoría de usuarios sufragarón por la temática de **plugins** seguida de **desarrollo de mapas temáticos**, bajo este contexto y evidencias, el **Grupo de Usuarios de QGIS Perú** comenzó un nuevo evento llamado **"Café con Plugins"**.
