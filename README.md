@@ -13,17 +13,13 @@
 <a href="https://twitter.com/qgispe">
  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=24>
 </a>
- 
-<a href="">
+<a href="https://www.youtube.com/channel/UCj5_XjZ-KpYBYhyrpjXJjcA?view_as=subscriber">
   <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=24>
   </a>
 <a href="https://open.spotify.com/playlist/1j8TUXUGpsmm0aKdVoRuEF?si=bDhduwf3T1KEu_o93dp07w">
   <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" height=24>
   </a>
-
-
-
-
+ 
 </p>
 
 <p>
