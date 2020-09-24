@@ -23,7 +23,7 @@
 Durante la primera semana del mes de setiembre del 2020 se lanzó una encuesta a todo la comunidad de **qgiseros** y **qgiseras** acerca de los temas de interés a tratar más adelante como parte del cronograma de actividades agendadas por parte del **Grupo de Usuarios de QGIS Perú**, para está encuesta se propusierón algunas temáticas referenciales, teniendo como objetivo incentivar a los usuarios y nuevos usuarios a participar y  proponer temáticas de su interés, esta encuesta fueron publicadas en [**Facebook**]() y [**Twitter**](), conforme pasarón los días la mayoría de usuarios sufragarón por la temática de **plugins** seguida de **desarrollo de mapas temáticos**, bajo este contexto y evidencias, el **Grupo de Usuarios de QGIS Perú** comenzó un nuevo evento llamado **"Café con Plugins"**.
 <br/>
 
-<p>
+<p align="center">
  <a>
   <img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/master/plots/qgispe_fb.png" width=300 align="left">
  </a>
@@ -31,11 +31,10 @@ Durante la primera semana del mes de setiembre del 2020 se lanzó una encuesta a
   <img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/master/plots/qgispe_twitter.png" width=345 height=261 align="rigth"  hspace="10">
  </a>
  <br/>
-  <p align="center">
-   <a>
-   <img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/master/plots/CoffeewithPlugins_flyer.png" width=300 height= 420>
-   </a>
-  </p>
+ <br/>
+ <a>
+  <img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/master/plots/CoffeewithPlugins_flyer.png" width=320 height= 450>
+  </a>
 </p>
 <br/>
 
