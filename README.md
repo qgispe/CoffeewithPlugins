@@ -28,7 +28,7 @@
 
 <p>
  <a>
-  <img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/master/plots/qgispe_facebook.png" width=300 align="left">
+  <img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/master/plots/qgispe_fb.png" width=300 align="left">
  </a>
 <a>
   <img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/master/plots/qgispe_twitter.png" width=350 height=261 align="rigth">
