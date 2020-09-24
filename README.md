@@ -31,9 +31,11 @@ Durante la primera semana del mes de setiembre del 2020 se lanzó una encuesta a
   <img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/master/plots/qgispe_twitter.png" width=345 height=261 align="rigth"  hspace="10">
  </a>
  <br/>
- <a><center>
-  <img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/master/plots/CoffeewithPlugins_flyer.png" width=300 height= 420></center>
-  </a>
+  <p align="center">
+   <a>
+   <img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/master/plots/CoffeewithPlugins_flyer.png" width=300 height= 420>
+   </a>
+  </p>
 </p>
 <br/>
 
