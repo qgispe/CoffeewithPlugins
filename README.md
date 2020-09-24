@@ -17,6 +17,12 @@
 <a>
   <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=24>
   </a>
+<a>
+  <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" height=24>
+  </a>
+
+
+
 
 </p>
 
