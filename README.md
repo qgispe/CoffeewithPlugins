@@ -38,8 +38,8 @@ Durante la primera semana del mes de setiembre del 2020 se lanzó una encuesta a
 </p>
 <br/>
 
-## Objetivos:
 
+## Objetivos:
 
 ## Únete a nuestro grupo de Gitter para intercambiar conocimientos
 
@@ -50,7 +50,7 @@ Un **plugin** o comúnmente llamados **"complementos"**, son herramientas extern
 en el lenguage de **python** y **Qt designer**; la integración de python con el API de QGIS es lo que comumente se le autodenomina **PyQGIS**.
 
 ## ¿Cómo instalar un plugin?
-Para instalar un plugin solo tienes que ir a la barra de menú y dirigirte hace la opción de **complementos**, luego le das clik a **administrar e instalar complementos** y digitalizas el nombre del plugin a instalar(para nuestro ejemplo es **Data Plotly**), y finalmente le das click a instalar y eso es todo, esto lo puedes notar de mejor manera en el siguiente video.
+Para instalar un plugin solo tienes que ir a la barra de menú y dirigirte hace la opción de <img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/9b28280b323ef3daaec1c3e4d7520c62fd573065/resources/complemento.svg" width=14> **complementos**, luego le das clik a **administrar e instalar complementos** y digitalizas el nombre del plugin a instalar(para nuestro ejemplo es **Data Plotly**), y finalmente le das click a instalar y eso es todo, esto lo puedes notar de mejor manera en el siguiente video.
 
 <p align = "center">
  <a>
