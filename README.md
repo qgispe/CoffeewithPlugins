@@ -20,7 +20,7 @@
   </a>
 </p>
 
-Durante la primera semana del mes de setiembre del 2020 se lanzó una encuesta a todo la comunidad de **qgiseros** y **qgiseras** acerca de los temas de interés a tratar más adelante como parte del cronograma de actividades agendadas por parte del **Grupo de Usuarios de QGIS Perú**, para está encuesta se propusierón algunas temáticas referenciales, teniendo como objetivo incentivar a los usuarios y nuevos usuarios a participar y  proponer temáticas de su interés, esta encuesta fueron publicadas en [**Facebook**]() y [**Twitter**](), conforme pasarón los días la mayoría de usuarios sufragarón por la temática de **plugins** seguida de **desarrollo de mapas temáticos**, bajo este contexto y evidencias, el **Grupo de Usuarios de QGIS Perú** comenzó un nuevo evento llamado **"Café con Plugins"**, teniendo como punto de partida el día 02 de octubre.
+Durante la primera semana del mes de setiembre del 2020 se lanzó una encuesta a todo la comunidad de **qgiseros** y **qgiseras** acerca de los temas de interés a tratar más adelante como parte del cronograma de actividades agendadas por parte del **Grupo de Usuarios de QGIS Perú**, para está encuesta se propusierón algunas temáticas referenciales, teniendo como objetivo incentivar a los usuarios y nuevos usuarios a participar y  proponer temáticas de su interés, esta encuesta fueron publicadas en [**Facebook**]() y [**Twitter**](), conforme pasarón los días la mayoría de usuarios sufragarón por la temática de **plugins** seguida de **desarrollo de mapas temáticos**, bajo este contexto y evidencias, el **Grupo de Usuarios de QGIS Perú** comenzó un nuevo evento llamado **"Café con Plugins"**, teniendo como punto de partida el día 02 de octubre del presente año.
 <br/>
 
 <p align="center">
@@ -40,5 +40,28 @@ Durante la primera semana del mes de setiembre del 2020 se lanzó una encuesta a
 
 ## Objetivos:
 
-## 
 
+## Únete a nuestro grupo de Gitter para intercambiar conocimientos
+
+## ¿Qué es un plugin?
+
+## ¿Cómo instalar un plugin?
+Para instalar un plugin solo tienes que ir a la barra de menú y dirigirte hace la opción de **complementos**, luego le das clik a **administrar e instalar complementos** y digitalizas el nombre del plugin a instalar(para nuestro ejemplo es **Data Plotly**), y finalmente le das click a instalar y eso es todo, esto lo puedes notar de mejor manera en el siguiente video.
+
+![]()
+
+
+## Plugins más instalados 
+
+## Plugins más estables 
+
+## ¿Cómo generar un issue y coloborar con el desarrollo de plugins?
+
+## ¿Cómo encontrar más información con respecto a un plugin?
+
+## ¿Cómo elaborar plugins?
+
+### Referencias 
+
+
+ 
