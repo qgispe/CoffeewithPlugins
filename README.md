@@ -41,7 +41,18 @@ Durante la primera semana del mes de setiembre del 2020 se lanzó una encuesta a
 
 ## Objetivos:
 
+* Iniciar con el primer evento autodenominado café con plugins
+* Dar a conocer a los usuarios y nuevos usuarios los conceptos básicos entorno a los plugins
+* Mostrar los plugins más instalados y estables en la versiones de largo plazo(**LTR**: **3.10**) y la última versión(**LR**: **3.14**).
+* Enseñar las formas correctas de descargar e instalar plugins 
+* Evangelizar el uso de github 
+* Colaborar con el desarrollo y testing de plugins
+
 ## Únete a nuestro grupo de Gitter para intercambiar conocimientos
+
+
+
+
 
 
 ## ¿Qué es un plugin?
@@ -50,7 +61,7 @@ Un **plugin** o comúnmente llamados **"complementos"**, son herramientas extern
 en el lenguage de **python** y **Qt designer**; la integración de python con el API de QGIS es lo que comumente se le autodenomina **PyQGIS**.
 
 ## ¿Cómo instalar un plugin?
-Para instalar un plugin solo tienes que ir a la barra de menú y dirigirte hace la opción de <img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/9b28280b323ef3daaec1c3e4d7520c62fd573065/resources/complemento.svg" width=18> **complementos**, luego le das clik a **administrar e instalar complementos** y digitalizas el nombre del plugin a instalar(para nuestro ejemplo es **Data Plotly**), y finalmente le das click a instalar y eso es todo, esto lo puedes notar de mejor manera en el siguiente video.
+Para instalar un plugin solo tienes que ir a la barra de menú y dirigirte hace la opción de <img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/9b28280b323ef3daaec1c3e4d7520c62fd573065/resources/complemento.svg" width=18> **complementos**, luego le das clik a **administrar e instalar complementos** y digitalizas el nombre del plugin a instalar (para nuestro ejemplo es <img src="https://raw.githubusercontent.com/ghtmtt/DataPlotly/master/DataPlotly/icons/dataplotly.svg" width=18> **Data Plotly**), y finalmente le das click a instalar y eso es todo, esto lo puedes notar de mejor manera en el siguiente video.
 
 <p align = "center">
  <a>
