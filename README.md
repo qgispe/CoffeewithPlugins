@@ -80,7 +80,7 @@ Para instalar un plugin solo tienes que ir a la barra de menú y dirigirte hace 
 
 ## ¿Cómo elaborar plugins?
 
-### Referencias 
+## Referencias 
 
 
  
