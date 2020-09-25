@@ -43,7 +43,7 @@ Durante la primera semana del mes de setiembre del 2020 se lanzó una encuesta a
 
 * Iniciar con el primer evento autodenominado café con plugins
 * Dar a conocer a los usuarios y nuevos usuarios los conceptos básicos entorno a los plugins
-* Mostrar los plugins más instalados y estables en la versiones de largo plazo(**LTR**: **3.10**) y la última versión(**LR**: **3.14**).
+* Mostrar los plugins más instalados y estables en la versiones de largo plazo(**LTR**: **3.10** *A Coruña*) y la última versión(**LR**: **3.14** *Pi*).
 * Enseñar las formas correctas de descargar e instalar plugins 
 * Evangelizar el uso de github 
 * Colaborar con el desarrollo y testing de plugins
