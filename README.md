@@ -48,7 +48,11 @@ Durante la primera semana del mes de setiembre del 2020 se lanzó una encuesta a
 ## ¿Cómo instalar un plugin?
 Para instalar un plugin solo tienes que ir a la barra de menú y dirigirte hace la opción de **complementos**, luego le das clik a **administrar e instalar complementos** y digitalizas el nombre del plugin a instalar(para nuestro ejemplo es **Data Plotly**), y finalmente le das click a instalar y eso es todo, esto lo puedes notar de mejor manera en el siguiente video.
 
-![](https://raw.githubusercontent.com/barja8/CoffeewithPlugins/master/resources/install_plugins2.gif)
+<p align = "center">
+ <a>
+ <img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/master/resources/install_plugins2.gif">
+ </a>
+</p>
 
 
 ## Plugins más instalados 
