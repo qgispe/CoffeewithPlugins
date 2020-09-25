@@ -45,6 +45,9 @@ Durante la primera semana del mes de setiembre del 2020 se lanzó una encuesta a
 
 ## ¿Qué es un plugin?
 
+Un **plugin** o comunmente llamados **"complementos"**, son herramientas externas desarollados por la comunidad científica y dinámica de QGIS para solucionar diferentes tareas de geoprocesamientos o problemas específicos, estos son creados
+en el lenguage de **python** y **Qt designer**; la integración de python con el API de QGIS es lo que comumente se le autodenomina **PyQGIS**.
+
 ## ¿Cómo instalar un plugin?
 Para instalar un plugin solo tienes que ir a la barra de menú y dirigirte hace la opción de **complementos**, luego le das clik a **administrar e instalar complementos** y digitalizas el nombre del plugin a instalar(para nuestro ejemplo es **Data Plotly**), y finalmente le das click a instalar y eso es todo, esto lo puedes notar de mejor manera en el siguiente video.
 
