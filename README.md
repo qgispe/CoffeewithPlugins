@@ -43,9 +43,10 @@ Durante la primera semana del mes de setiembre del 2020 se lanzó una encuesta a
 
 ## Únete a nuestro grupo de Gitter para intercambiar conocimientos
 
+
 ## ¿Qué es un plugin?
 
-Un **plugin** o comunmente llamados **"complementos"**, son herramientas externas desarollados por la comunidad científica y dinámica de QGIS para solucionar diferentes tareas de geoprocesamientos o problemas específicos, estos son creados
+Un **plugin** o comúnmente llamados **"complementos"**, son herramientas externas desarollados por la comunidad científica y dinámica de QGIS para solucionar diferentes tareas de geoprocesamientos o problemas específicos, estos son creados
 en el lenguage de **python** y **Qt designer**; la integración de python con el API de QGIS es lo que comumente se le autodenomina **PyQGIS**.
 
 ## ¿Cómo instalar un plugin?
