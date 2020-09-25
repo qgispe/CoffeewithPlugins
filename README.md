@@ -48,16 +48,6 @@ Durante la primera semana del mes de setiembre del 2020 se lanzó una encuesta a
 * Evangelizar el uso de github 
 * Colaborar con el desarrollo y testing de plugins
 
-## Únete a nuestro grupo de Gitter para intercambiar conocimientos
-<p align="center">
- <a>
-  <img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/master/resources/p1.png" width=400>
- </a><img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/master/resources/p2.png" width=400></a>
- <a>
-  <img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/master/resources/p3.png" width=350>
- </a>
-</p>
-
 
 ## ¿Qué es un plugin?
 
