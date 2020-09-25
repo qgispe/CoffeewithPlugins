@@ -51,10 +51,10 @@ Durante la primera semana del mes de setiembre del 2020 se lanzó una encuesta a
 ## Únete a nuestro grupo de Gitter para intercambiar conocimientos
 <p align="center">
  <a>
-  <img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/master/resources/p1.png" width=250>
- </a><img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/master/resources/p2.png" width=250></a>
+  <img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/master/resources/p1.png" width=300>
+ </a><img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/master/resources/p2.png" width=300></a>
  <a>
-  <img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/master/resources/p3.png" width=240>
+  <img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/master/resources/p3.png" width=290>
  </a>
 </p>
 
