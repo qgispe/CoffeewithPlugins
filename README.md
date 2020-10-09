@@ -66,15 +66,46 @@ Para instalar un plugin solo tienes que ir a la barra de menú y dirigirte hace 
 
 ## Plugins más instalados 
 
+Esto particularmente dependerá de la versión con la cual estás trabajando, recuerda que hay plugins que actualmente no tiene soporte, por ende no son compatibles con la ultimas versiones. 
+
+En el siguiente gráfico mostramos los plugins más instalados hasta el momento. 
+
+<p align= "center">
+<a><img src="./plots/plugistop.png"></a>
+<a>Fuente:Elaboración propia con datos de QGIS</a>
+</p>
+
 ## Plugins más estables 
+
+El siguiente gráfico muestra los plugins más estables hasta el momento. 
+
+<p align= "center">
+<a><img src="./plots/plugins_estables.png"></a>
+<a>Fuente:Elaboración propia con datos de QGIS</a>
+</p>
 
 ## ¿Cómo generar un issue y coloborar con el desarrollo de plugins?
 
+Para poder colaborar con el desarrollo de un plugin existe un complemento super interesante dentro de QGIS, este es el famoso **Report Plugin** <img src="./resources/icon_128.png" width=20> con este **complemento** también puedes generar nuevos isuues dentro de GitHub.
+
+<p align = "center">
+ <a>
+ <img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/master/resources/install_plugins3.gif">
+ </a>
+</p>
+
 ## ¿Cómo encontrar más información con respecto a un plugin?
 
+Para optener mayor información acerca de plugins puedes visitar la siguiente página de QGIS :: <https://plugins.qgis.org/>
+
 ## ¿Cómo elaborar plugins?
+Para poder elaborar plugins es necesario saber a programar en python;sin embargo, dentro de QGIS existe diferentes formas de como puedes iniciar a recorrer esta nueva aventura.
 
-## Referencias 
+Puedes empezar revizando el manuela de **PyQGIS** o los videos elaborados por **Victor Olaya**
 
+* Documentación de PyQgis:: <https://docs.qgis.org/3.10/en/docs/pyqgis_developer_cookbook/>.
+
+* Curso de Programación QGIS 3 con Python:: <https://www.youtube.com/watch?v=vZ08dYlM-7U>
 
  
+ ![](https://raw.githubusercontent.com/barja8/Friends/master/QGIS/Img/icons/istat88x31.png)Todos los datos producidos en el presente proyecto se publican bajo [licencia Creative Commons (CC BY 2.5 PE)](https://creativecommons.org/share-your-work/): Es posible reproducir, distribuir, transmitir y adaptar libremente datos,  también con fines comerciales, siempre que se cite la **fuente**.
