@@ -59,7 +59,7 @@ Para instalar un plugin solo tienes que ir a la barra de menú y dirigirte hace 
 
 <p align = "center">
  <a>
- <img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/master/resources/install_plugins2.gif">
+ <img src="https://raw.githubusercontent.com/barja8/CoffeewithPlugins/master/resources/reporte.gif">
  </a>
 </p>
 
