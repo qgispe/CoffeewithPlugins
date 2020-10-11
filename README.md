@@ -66,7 +66,7 @@ Para instalar un plugin solo tienes que ir a la barra de menú y dirigirte hace 
 
 ## Plugins más instalados 
 
-Esto particularmente dependerá de la versión con la cual estás trabajando, recuerda que hay plugins que actualmente no tiene soporte, por ende no son compatibles con la ultimas versiones. 
+Esto particularmente dependerá de la versión con la cual estás trabajando, recuerda que hay plugins que actualmente no tiene soporte, por ende no son compatibles con la últimas versiones. 
 
 En el siguiente gráfico mostramos los plugins más instalados hasta el momento. 
 
@@ -101,7 +101,7 @@ Para optener mayor información acerca de plugins puedes visitar la siguiente p�
 ## ¿Cómo elaborar plugins?
 Para poder elaborar plugins es necesario saber a programar en python;sin embargo, dentro de QGIS existe diferentes formas de como puedes iniciar a recorrer esta nueva aventura.
 
-Puedes empezar revizando el manuela de **PyQGIS** o los videos elaborados por **Victor Olaya**
+Puedes empezar revizando el manual de **PyQGIS** o los videos elaborados por **Victor Olaya**
 
 * Documentación de PyQgis:: <https://docs.qgis.org/3.10/en/docs/pyqgis_developer_cookbook/>.
 
