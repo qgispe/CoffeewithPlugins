@@ -1,6 +1,6 @@
 # **Café con Plugins N°05**
 
-<p><a><b>Personalización de gráficos con DataPlotly</b></a><space> </space><img src='https://plugins.qgis.org//media/packages/2020/icon_xeDd1Oa.png' height=20 align='center'></p>
+## **Personalización de gráficos con DataPlotly** </b><img src='https://plugins.qgis.org//media/packages/2020/icon_xeDd1Oa.png' height=25 align='center'></p>
 
 ## Insumos: 
 
