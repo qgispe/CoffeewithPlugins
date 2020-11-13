@@ -8,6 +8,10 @@
  * *DataPlotly*
  * *VisualCode*
 
+## Instalación de DataPloltly
+
+![](https://raw.githubusercontent.com/barja8/CoffeewithPlugins/master/resources/install_plugins.gif)
+
 ## Contacto:
 
 |Autor|Descripción|Twitter |GitHub|
