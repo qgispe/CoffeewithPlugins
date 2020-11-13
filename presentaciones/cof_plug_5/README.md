@@ -6,7 +6,6 @@
 
  * *QGIS* 
  * *DataPlotly*
- * *VisualCode*
 
 ## Instalación de DataPloltly
 
