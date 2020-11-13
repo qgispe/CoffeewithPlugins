@@ -4,10 +4,20 @@
 
 ## Insumos: 
 
+ * *QGIS* 
+ * *DataPlotly*
+ * *VisualCode*
 
 ## Contacto:
 
+|Autor|Descripción|Twitter |GitHub|
+| --- | ----------- |----|----|
+|**Antony Barja**| **Bach.Ingeniería Geográfica**| [@AntonyBarja1](https://twitter.com/AntonyBarja1) | [barja8](https://github.com/barja8) |
+
+
 ## Referencias:
+ * Matteo Ghetta,2020, Faunalia e QGIS Italia,https://www.faunalia.eu/slides/2020-foss4g-to-ghetta/#/
+ * Matteo Ghetta, 2017,DataPlotly,https://github.com/ghtmtt/DataPlotly 
 
 
 
