@@ -1,5 +1,5 @@
-# Café con Plugins N° 6
-Materiales: [https://github.com/bzdjahna/QGIS-Patches-Peru)
+# Café con Plugins #06
+Materiales: https://github.com/bzdjahna/QGIS-Patches-Peru
 
 ![](https://github.com/qgispe/CoffeewithPlugins/blob/master/presentaciones/cof_plug_6/resources/qgispe_ccp_6_.png)
 
